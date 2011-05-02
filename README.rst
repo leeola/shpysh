@@ -15,8 +15,8 @@ be slow, and most likely it will even be shitty. You have been warned.
 
 The Name
 --------
-The name stands for **Sh**itty **Py**thon **Sh**ell. Why the self mocking name
-when it, *if implemented properly,* is so utterly awesome? Because the
+The name stands for **Sh** itty **Py** thon **Sh** ell. Why the self mocking
+name when it, *if implemented properly,* is so utterly awesome? Because the
 author has no idea what he is doing in regards to Shell design. There is no
 way this can turn out good. For the love of god, turn around now, as this will
 most likely eat your babies.
