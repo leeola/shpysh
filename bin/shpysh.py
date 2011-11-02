@@ -14,6 +14,10 @@ import os
 import sys
 import urwid
 
+# Just for early development, append the main library.
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+import shpysh.widget
 
 def start_urwid():
     '''Load the gui, and start capturing the user input.'''
